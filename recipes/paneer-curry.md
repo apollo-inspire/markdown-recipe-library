@@ -10,7 +10,7 @@ Type: Vegetarian
 
 Rating: 5/5
 Cooking time: 0:45-1:15
-Price: 2/3
+Price: €€
 Servings: 6
 
 Allergens:

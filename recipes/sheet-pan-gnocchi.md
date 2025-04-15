@@ -1,20 +1,20 @@
 [Back to Index](/index.md)
 
 # Sheet Pan Gnocchi
-*Gnocchi, Broccoli, Cherry Tomatoes, Feta*
-*{Insert general description}*
+*Gnocchi, Broccoli, Cherry Tomatoes, Feta*  
+<!-- *{Insert general description}* -->
 
-Recipe Origin: [{insert link or person of original recipe}](https://www.loveandlemons.com/wprm_print/sheet-pan-gnocchi)
+Recipe Origin: (https://www.loveandlemons.com/sheet-pan-gnocchi/)
 
-Cuisine: {insert cuisine or kitchen}  
-Type: {insert diet type}  
+Cuisine: Italian
+Type: Vegetarian
 
 Rating: {3}/5  
 Cooking time: {0:45}-{1:00}  
-Price: {1}/3  
+Price: €  
 Servings: 4  
 
-Allergens: {insert: Gluten, Crustaceans/Shellfish, Milk/Lactose, Egg, Fish, Peanuts, Tree nuts, Soy, Sesame, Mustard, Celery, Lupin, Sulphites, Molluscs, Citric acid}
+Allergens: Milk/Lactose {insert: Gluten, Crustaceans/Shellfish, Egg, Fish, Peanuts, Tree nuts, Soy, Sesame, Mustard, Celery, Lupin, Sulphites, Molluscs, Citric acid}
 
 ## Ingredients
 ### Ground Spices: (one container of each available)
