@@ -1,5 +1,6 @@
-# Sweet Potato and Chickpea Curry
 [Back to Index](/index.md)
+
+# Sweet Potato and Chickpea Curry
 
 Original Recipe: https://www.kitchensanctuary.com/chickpea-and-sweet-potato-curry/
 

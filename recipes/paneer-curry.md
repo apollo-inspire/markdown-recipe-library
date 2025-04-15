@@ -1,0 +1,19 @@
+[Back to Index](/index.md)
+
+# Paneer Curry
+
+Original Recipe: https://www.kitchensanctuary.com/paneer-curry/
+
+Cuisine: Indian
+Type: Vegetarian
+
+Rating: 5/5
+Cooking time: 0:45-1:15
+Price: 2/3
+Servings: 6
+
+
+## Ingredients
+
+
+## Steps

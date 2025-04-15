@@ -1,8 +1,11 @@
 # Index
 
+## Recipes
+
 - [Sweet Potato and Chickpea Curry](/recipes/sweet-potato-and-chickpea-curry.md) (Indian)
 
-To Add:
+
+## To Add
 - Paneer Curry (Indian)
 - Bibimbap (Korean)
 - Sushi Bowl (Japanese)
