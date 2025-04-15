@@ -1,6 +1,6 @@
 # Index
 
-- Sweet Potato and Chickpea Curry [Indian]
+- [rec](Sweet Potato and Chickpea Curry) [Indian]
 - Paneer Curry [Indian]
 - Bibimbap [Korean]
 - Sushi Bowl [Japanese]
