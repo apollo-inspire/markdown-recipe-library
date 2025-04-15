@@ -1,6 +1,7 @@
 [Back to Index](/index.md)
 
 # Paneer Curry
+*{Paneer cheese, butter curry}*
 
 Original Recipe: https://www.kitchensanctuary.com/paneer-curry/
 
@@ -12,6 +13,7 @@ Cooking time: 0:45-1:15
 Price: 2/3
 Servings: 6
 
+Allergens:
 
 ## Ingredients
 

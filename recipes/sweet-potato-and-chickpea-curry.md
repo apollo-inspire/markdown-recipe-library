@@ -1,6 +1,7 @@
 [Back to Index](/index.md)
 
 # Sweet Potato and Chickpea Curry
+*{Sweet potato, chickpea, red curry, rice & naan}*
 
 Original Recipe: https://www.kitchensanctuary.com/chickpea-and-sweet-potato-curry/
 
@@ -12,6 +13,7 @@ Cooking time: 1:00-1:45
 Price: 2/3  
 Servings: 6  
 
+Allergens: Gluten (Possible: Sesame, Sulphites, Citric acid)
 
 ## Ingredients
 ### Ground Spices: (one container of each available)

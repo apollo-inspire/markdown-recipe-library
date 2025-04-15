@@ -1,6 +1,7 @@
 [Back to Index](/index.md)
 
 # {Insert Title}
+*{Insert main ingredients}*
 *{Insert general description}*
 
 Recipe Origin: {insert link or person of original recipe}
@@ -13,6 +14,7 @@ Cooking time: {0:00}-{0:00}
 Price: {#}/3  
 Servings: {#}  
 
+Allergens: {insert: Gluten, Crustaceans/Shellfish, Milk/Lactose, Egg, Fish, Peanuts, Tree nuts, Soy, Sesame, Mustard, Celery, Lupin, Sulphites, Molluscs, Citric acid}
 
 ## Ingredients
 ### Ground Spices: (one container of each available)
