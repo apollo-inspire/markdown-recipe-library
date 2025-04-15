@@ -1,0 +1,88 @@
+# Sweet Potato and Chickpea Curry
+
+Original Recipe: https://www.kitchensanctuary.com/chickpea-and-sweet-potato-curry/
+
+Cuisine: Indian
+Type: Vegetarian
+
+Rating: 5/5
+Cooking time: 1:00-1:45
+Price: 2/3
+Servings: 6
+
+
+## Ingredients
+Ground Spices: (one container of each available)
+- Curry Powder
+- Ground Coriander 
+- Ground Cumin
+- Paprika Powder
+- Ground Cinnamon 
+- Salt
+- Pepper
+- Sugar
+- Tomato Puree/Paste
+
+
+Fresh Spices:
+- Onion [3 medium]
+- Garlic [2 cloves]
+- Ginger [1.5 thumb]
+- Spicy Pepper (Type & Quantity based on wanted spicyness)
+
+Other:
+- Vegetable / Olive Oil
+- Sweet Potato [600-800g]
+- Chickpeas [400g-600g]
+- Full Fat coconut milk [400g-600g]
+- Fresh Tomatoes [800g-1200g] OR Canned Chopped Tomatoes [800g-1200g]
+
+- Rice [600g-800g]
+- Naan Bread [4-6 Big Breads]
+
+Optional:
+- Red Onion [1 small]
+- Baby Spinach [60-100g]
+
+## Steps
+
+A: (Fresh Tomato Sauce)
+1. Oil a sauce pan
+2. Cube the tomatoes and put them in a pan to cook 
+3. When tomatoes are cooked, blend them
+4. Add some Tomato paste & add a pinch of sugar and salt
+5. Let simmer on very low heat
+
+B: (Main Prepping)
+1. Finely dice 3 medium onions.
+2. Make the spice mix:
+ - Finely chop 1.5 thumb of ginger
+ - Finely chop 3 cloves of garlic
+ - Finely chop Spicy Pepper 
+ - Add 3 tbsp Curry Powder
+ - Add 1.5 tbsp Ground Coriander 
+ - Add 0.75 tbsp Ground Cumin
+ - Add 1.5 teasp Paprika Powder
+ - Add 0.75 teasp Ground Cinnamon 
+ - Add 0.75 teasp Salt
+ - Add 0.75 teasp Pepper
+3. Prepare the Rice, put it in the ricecooker and turn it on.
+4. Peel and chop sweet potato into chunks.
+5. Drain & wash chickpeas.
+
+C: (Main Cooking)
+1. Oil a sauce pan.
+2. Put finely chopped onions in the pan and let it cook for ~5 mins
+3. Add spice mix and cook for ~1 min
+4. Add the chopped sweet potato, drained chickpeas, tomato sauce, full fat coconut, 2 tbsp tomato puree.
+5. Simmer over medium heat for ~20 mins while stirring occasionally
+6. In the meanwhile preheat the oven
+7. After the oven is preheated add the naan (cooking time on the package)
+8. Test the sweet potato, if it's still hard, let it simmer for another ~10 mins
+9. Serve!
+
+D: (Optional extra)
+1. Slice 1 medium Red Onion 
+2. Add to on top of the dish in the end.
+
+1. Add fresh coriander or cilantro on top.
