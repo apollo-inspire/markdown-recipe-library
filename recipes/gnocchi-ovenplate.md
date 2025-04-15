@@ -1,6 +1,6 @@
 [Back to Index](/index.md)
 
-# {Insert Title}
+# Gnocchi Oven Plate
 *{Insert main ingredients}*
 *{Insert general description}*
 

@@ -1,7 +1,7 @@
 [Back to Index](/index.md)
 
 # Sweet Potato and Chickpea Curry
-*{Sweet potato, chickpea, red curry, rice & naan}*
+*Sweet potato, Chickpeas, Tomato curry, Rice & Naan Bread*
 
 Original Recipe: https://www.kitchensanctuary.com/chickpea-and-sweet-potato-curry/
 
@@ -10,7 +10,7 @@ Type: Vegetarian
 
 Rating: 5/5  
 Cooking time: 1:00-1:45  
-Price: 2/3  
+Price: €€ (in NL: €20-30)
 Servings: 6  
 
 Allergens: Gluten (Possible: Sesame, Sulphites, Citric acid)
@@ -34,7 +34,7 @@ Allergens: Gluten (Possible: Sesame, Sulphites, Citric acid)
 - Ginger [1.5 thumb]
 - Spicy Pepper (Type & Quantity based on wanted spicyness)
 
-### Other:
+### Main:
 - Vegetable / Olive Oil
 - Sweet Potato [600-800g]
 - Chickpeas [400g-600g]
@@ -55,7 +55,7 @@ Allergens: Gluten (Possible: Sesame, Sulphites, Citric acid)
 2. Cube the tomatoes and put them in a pan to cook 
 3. When tomatoes are cooked, blend them
 4. Add some Tomato paste & add a pinch of sugar and salt
-5. Let simmer on very low heat
+5. Let it simmer on very low heat
 
 ### B: (Main Prepping)
 1. Finely dice 3 medium onions.
@@ -78,10 +78,10 @@ Allergens: Gluten (Possible: Sesame, Sulphites, Citric acid)
 1. Oil a sauce pan.
 2. Put finely chopped onions in the pan and let it cook for ~5 mins
 3. Add spice mix and cook for ~1 min
-4. Add the chopped sweet potato, drained chickpeas, tomato sauce, full fat coconut, 2 tbsp tomato puree.
+4. Add the chopped sweet potato, drained chickpeas, tomato sauce, full fat coconut & 2 tbsp tomato puree.
 5. Simmer over medium heat for ~20 mins while stirring occasionally
 6. In the meanwhile preheat the oven
-7. After the oven is preheated add the naan (cooking time on the package)
+7. After the oven is preheated, add the naan (cooking time on the package)
 8. Test the sweet potato, if it's still hard, let it simmer for another ~10 mins
 9. Serve!
 
