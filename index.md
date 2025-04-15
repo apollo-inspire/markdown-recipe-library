@@ -3,7 +3,7 @@
 ## Recipes
 
 - [Sweet Potato and Chickpea Curry](/recipes/sweet-potato-and-chickpea-curry.md) (Indian)
-
+- [Sheet Pan Gnocchi](/recipes/sheet-pan-gnocchi.md) (Italian)
 
 ## To Add
 - Paneer Curry (Indian)
@@ -11,7 +11,6 @@
 - Sushi Bowl (Japanese)
 - Vega Schnitzel & Ovenplate
 - Luuks Pasta w Vega Balls
-- Gnocchi Ovenplate
 
 - Mashed Potato w sour milk + Pierogi w Śmietana + Green Salad (Polish)
 - Mexican oven plate with (vega) minced meat (Mexican)
