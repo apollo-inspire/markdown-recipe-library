@@ -1,14 +1,15 @@
 # Sweet Potato and Chickpea Curry
+[Back to Index](/index.md)
 
 Original Recipe: https://www.kitchensanctuary.com/chickpea-and-sweet-potato-curry/
 
-Cuisine: Indian
-Type: Vegetarian
+Cuisine: Indian  
+Type: Vegetarian  
 
-Rating: 5/5
-Cooking time: 1:00-1:45
-Price: 2/3
-Servings: 6
+Rating: 5/5  
+Cooking time: 1:00-1:45  
+Price: 2/3  
+Servings: 6  
 
 
 ## Ingredients
@@ -83,6 +84,6 @@ C: (Main Cooking)
 
 D: (Optional extra)
 1. Slice 1 medium Red Onion 
-2. Add to on top of the dish in the end.
+2. Add Red Onion on top of the dish in the end.
 
 1. Add fresh coriander or cilantro on top.
