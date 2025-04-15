@@ -15,27 +15,27 @@ Servings: {#}
 
 
 ## Ingredients
-Ground Spices: (one container of each available)
+### Ground Spices: (one container of each available)
 - {insert}
 
 
-Fresh Spices:
+### Fresh Spices:
 - {insert name} [{insert amount}]
 
-Other:
+### Other:
 - {insert name} [{insert amount}]
 
-Optional:
+### Optional:
 - {insert name} [{insert amount}]
 
 ## Steps
 
-A: (Main Prepping)
+### A: (Main Prepping)
 1. {insert step}
 
 
-B: (Main Cooking)
+### B: (Main Cooking)
 1. {insert step}
 
-C: (Optional extra)
+### C: (Optional extra)
 1. {insert step}
