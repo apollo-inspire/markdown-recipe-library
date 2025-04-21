@@ -1,7 +1,7 @@
 [Back to Index](/index.md)
 
 # Sweet Potato and Chickpea Curry
-*Sweet potato, Chickpeas, Tomato curry, Rice & Naan Bread*
+*Sweet potato, Chickpeas, Tomato Curry, Rice, Naan Bread*
 
 Original Recipe: https://www.kitchensanctuary.com/chickpea-and-sweet-potato-curry/
 
@@ -10,12 +10,13 @@ Type: Vegetarian
 
 Rating: 5/5  
 Cooking time: 1:00-1:45  
-Price: €€ (in NL: €20-30)
+Price: €€ (in NL: €20-30)  
 Servings: 6  
 
 Allergens: Gluten (Possible: Sesame, Sulphites, Citric acid)
 
 ## Ingredients
+
 ### Ground Spices: (one container of each available)
 - Curry Powder
 - Ground Coriander 
@@ -25,8 +26,6 @@ Allergens: Gluten (Possible: Sesame, Sulphites, Citric acid)
 - Salt
 - Pepper
 - Sugar
-- Tomato Puree/Paste
-
 
 ### Fresh Spices:
 - Onion [3 medium]
@@ -36,27 +35,32 @@ Allergens: Gluten (Possible: Sesame, Sulphites, Citric acid)
 
 ### Main:
 - Vegetable / Olive Oil
+- Tomato Puree/Paste [100g]
 - Sweet Potato [600-800g]
 - Chickpeas [400g-600g]
 - Full Fat coconut milk [400g-600g]
 - Fresh Tomatoes [800g-1200g] OR Canned Chopped Tomatoes [800g-1200g]
 
-- Rice [600g-800g]
-- Naan Bread [4-6 Big Breads]
+- Rice [?600g-800g]
+- Naan Bread [4-6 big breads]
 
 ### Optional:
 - Red Onion [1 small]
 - Baby Spinach [60-100g]
 
 
+
+
 ## Steps
+
 
 ### A: (Fresh Tomato Sauce)
 1. Oil a sauce pan
-2. Cube the tomatoes and put them in a pan to cook 
-3. When tomatoes are cooked, blend them
-4. Add some Tomato paste & add a pinch of sugar and salt
-5. Let it simmer on very low heat
+2. Cube the tomatoes and put them in a pan to cook.
+3. When tomatoes are cooked, blend them.
+4. Add some Tomato paste & add a pinch of sugar and salt.
+5. Let it simmer on very low heat.
+
 
 ### B: (Main Prepping)
 1. Finely dice 3 medium onions.
@@ -76,14 +80,14 @@ Allergens: Gluten (Possible: Sesame, Sulphites, Citric acid)
 5. Drain & wash chickpeas.
 
 ### C: (Main Cooking)
-1. Oil a sauce pan.
+1. Oil a deep pan.
 2. Put finely chopped onions in the pan and let it cook for ~5 mins
 3. Add spice mix and cook for ~1 min
 4. Add the chopped sweet potato, drained chickpeas, tomato sauce, full fat coconut & 2 tbsp tomato puree.
 5. Simmer over medium heat for ~20 mins while stirring occasionally
-6. In the meanwhile preheat the oven
-7. After the oven is preheated, add the naan (cooking time on the package)
-8. Test the sweet potato, if it's still hard, let it simmer for another ~10 mins
+6. In the meanwhile preheat the oven (usually 180°C)
+7. Test the sweet potato, if it's still hard, let it simmer for another ~10 mins
+8. After the oven is preheated, add the naan (cooking time on the package)
 9. Serve!
 
 ### D: (Optional extra)
