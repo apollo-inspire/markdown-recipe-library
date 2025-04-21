@@ -6,6 +6,8 @@
 
 Recipe Origin: https://www.loveandlemons.com/sheet-pan-gnocchi/
 
+*Last updated: 2025-04-15*
+
 Cuisine: Italian  
 Type: Vegetarian
 

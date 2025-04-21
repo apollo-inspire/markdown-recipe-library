@@ -3,10 +3,10 @@
 ## Recipes
 
 - [Sweet Potato and Chickpea Curry](/recipes/sweet-potato-and-chickpea-curry.md) (Indian)
+- [Paneer Curry](/recipes/paneer-curry.md) (Indian)
 - [Sheet Pan Gnocchi](/recipes/sheet-pan-gnocchi.md) (Italian)
 
 ## To Add
-- Paneer Curry (Indian)
 - Bibimbap (Korean)
 - Sushi Bowl (Japanese)
 - Vega Schnitzel & Ovenplate

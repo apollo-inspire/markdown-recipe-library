@@ -7,6 +7,8 @@
 ![Paneer Curry Icon](/images/paneer-curry-icon.jpg)
 <img src="/images/paneer-curry-icon.jpg" alt="Paneer Curry Icon" height="100"/>
 
+*Last updated: 2025-04-21*
+
 Original Recipe: https://www.kitchensanctuary.com/paneer-curry/
 
 Cuisine: Indian  

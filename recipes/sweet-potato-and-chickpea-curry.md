@@ -5,6 +5,8 @@
 
 Original Recipe: https://www.kitchensanctuary.com/chickpea-and-sweet-potato-curry/
 
+*Last updated: 2025-04-21*
+
 Cuisine: Indian  
 Type: Vegetarian  
 
