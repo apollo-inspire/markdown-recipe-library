@@ -9,15 +9,15 @@
 
 Original Recipe: https://www.kitchensanctuary.com/paneer-curry/
 
-Cuisine: Indian
+Cuisine: Indian  
 Type: Vegetarian
 
-Rating: 5/5
-Cooking time: 0:45-1:15
-Price: €€ (in NL: €20-25)
-Servings: 6
+Rating: 5/5  
+Cooking time: 0:45-1:15  
+Price: €€ (in NL: €20-25)  
+Servings: 6  
 
-Allergens: Milk/Lactose, Gluten {Possible: Sesame, Sulphites, Citric acid}
+Allergens: Milk/Lactose, Gluten (Possible: Sesame, Sulphites, Citric acid)
 
 ## Ingredients
 
@@ -72,12 +72,12 @@ Allergens: Milk/Lactose, Gluten {Possible: Sesame, Sulphites, Citric acid}
 1. Roughly peel & chop 1 large onion, 4 cloves garlic and 1 thumb ginger (And red pepper)
 2. Blend the onion, garlic and ginger together. (And red pepper)
 4. Make the spice mix:
- - Add 1/4 teasp Salt
- - Add 1.5 tbsp Garam Masala
- - Add 1 tbsp Curry Powder
- - Add 1 teasp Paprika Powder
- - Add 0.5 teasp Cinnamon
- - Add 1 teasp Cardamom
+    - Add 1/4 teasp Salt
+    - Add 1.5 tbsp Garam Masala
+    - Add 1 tbsp Curry Powder
+    - Add 1 teasp Paprika Powder
+    - Add 0.5 teasp Cinnamon
+    - Add 1 teasp Cardamom
 5. Prepare the Rice, put it in the ricecooker and turn it on.
 6. Chop the 500g paneer cheese into 2cm blocks.
 
@@ -87,7 +87,7 @@ Allergens: Milk/Lactose, Gluten {Possible: Sesame, Sulphites, Citric acid}
 1. Heat 3 tbsp unsalted butter and and 1bsp oil in a deep pan.
 2. Sauté the onion, garlic, ginger & red pepper mixture for ~5 mins.
 3. Add spice mix and cook for ~2 mins
-4. Add the Tomato Passata, 180ml stock, 1 tbsp Tomato Puree/Paste, 2 teasp sugar 
+4. Add the Tomato Passata, 180ml stock, 1 tbsp Tomato Puree/Paste, 2 teasp sugar. 
 5. Simmer over medium heat for ~10 minutes until thickened while stirring occasionally.
 6. In the meanwhile preheat the oven (usually 180°C)
 7. After the oven is preheated, add the naan (cooking time on the package)

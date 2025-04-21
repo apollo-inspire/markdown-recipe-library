@@ -65,16 +65,16 @@ Allergens: Gluten (Possible: Sesame, Sulphites, Citric acid)
 ### B: (Main Prepping)
 1. Finely dice 3 medium onions.
 2. Make the spice mix:
- - Finely chop 1.5 thumb of ginger
- - Finely chop 3 cloves of garlic
- - Finely chop Spicy Pepper 
- - Add 3 tbsp Curry Powder
- - Add 1.5 tbsp Ground Coriander 
- - Add 0.75 tbsp Ground Cumin
- - Add 1.5 teasp Paprika Powder
- - Add 0.75 teasp Ground Cinnamon 
- - Add 0.75 teasp Salt
- - Add 0.75 teasp Pepper
+    - Finely chop 1.5 thumb of ginger
+    - Finely chop 3 cloves of garlic
+    - Finely chop Spicy Pepper 
+    - Add 3 tbsp Curry Powder
+    - Add 1.5 tbsp Ground Coriander 
+    - Add 0.75 tbsp Ground Cumin
+    - Add 1.5 teasp Paprika Powder
+    - Add 0.75 teasp Ground Cinnamon 
+    - Add 0.75 teasp Salt
+    - Add 0.75 teasp Pepper
 3. Prepare the Rice, put it in the ricecooker and turn it on.
 4. Peel and chop sweet potato into chunks.
 5. Drain & wash chickpeas.
