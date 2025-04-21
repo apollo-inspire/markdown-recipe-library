@@ -1,7 +1,7 @@
 [Back to Index](/index.md)
 
 # Paneer Curry
-*Paneer cheese, Butter Tomato Curry*
+*Paneer cheese, Butter Tomato Curry*  
 *A rich, buttery vegetarian curry with paneer cheese*
 
 ![Paneer Curry Icon](/images/paneer-curry-icon.jpg)
