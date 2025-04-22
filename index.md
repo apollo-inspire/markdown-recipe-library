@@ -10,6 +10,9 @@
 
 ## To Add
 - Bibimbap (Korean) {https://www.loveandlemons.com/bibimbap-recipe/}
+- Gochujang Sauce (Korean) {https://www.loveandlemons.com/gochujang-sauce/}
+- Baked Tofu (Korean) {https://www.loveandlemons.com/how-to-cook-tofu/}
+- Baked Tempeh (Korean) {https://www.loveandlemons.com/tempeh/}
 - Sushi Bowl (Japanese)
 - Vega Schnitzel & Ovenplate (German Inspired)
 - Luuks Pasta w Vega Balls (Italian Inspired)
@@ -25,7 +28,7 @@
 - Aardappelpannenkoeken + gehaktballen + gebakken ei + boontjes. (German-Dutch)
 - Nasi Goreng (Indonesian, Dutch-Indonesian) 
 - Pittige Omelette Rolletjes (Indonesian, Dutch-Indonesian)
-- Sajoer Boontjes (Indonesian, Dutch-Indonesian)
+- Sajur Boontjes (Indonesian, Dutch-Indonesian)
 - Full Indonesian Meal (Indonesian, Dutch-Indonesian)
 - Tofu Sate (Indonesian, Dutch-Indonesian) 
 - Ananas Rice Bowl (Asian)
@@ -34,12 +37,15 @@
 - Hartige Pannenkoeken (Dutch)
 - Fancy Knakworst broodje (Dutch)
 - Bauernomelett (op brood) (German)
+- Scrambled eggs w spring onion
 - Broodje Gezond (Dutch)
 - Polish Sandwich (Polish)
 - Homemade hamburger 
 - Milko's Greek Salad (Greek) {https://miljuschka.nl/griekse-salade/}
 - Patatje Vrijdag (Dutch)
-- Kant & Klare Poffertjes (Dutch)
+- Kant en Klare Poffertjes (Dutch)
 - Pasta pesto (Italian inspired)
 - Zalm gebakken + aardappeltjes + groente
+- Pecan Pie (American)
+- ?Beet Pie (?Russian)
 

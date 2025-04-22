@@ -6,7 +6,7 @@
 
 *Last updated: 2025-04-22*
 
-Recipe Origin: my Girlfriend  
+Recipe Origin: My girlfriend  
 
 Cuisine: Italian inspired   
 Type: Vegetarian, Quick  
