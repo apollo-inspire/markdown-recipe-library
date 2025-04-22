@@ -11,12 +11,12 @@ Recipe Origin: https://www.loveandlemons.com/sheet-pan-gnocchi/
 Cuisine: Italian  
 Type: Vegetarian
 
-Rating: 3/5  
-Cooking time: 0:45-1:00  
-Price: € (in NL: €10-15)
+Rating: 4/5  
+Cooking time: 0:45-1:15  
+Price: € (in NL: €15-20)
 Servings: 6  
 
-Allergens: Milk/Lactose {insert: Gluten, Crustaceans/Shellfish, Egg, Fish, Peanuts, Tree nuts, Soy, Sesame, Mustard, Celery, Lupin, Sulphites, Molluscs, Citric acid}
+Allergens: Milk/Lactose, Egg, Gluten {insert: Crustaceans/Shellfish, Fish, Peanuts, Tree nuts, Soy, Sesame, Mustard, Celery, Lupin, Sulphites, Molluscs, Citric acid}
 
 ## Ingredients
 ### Ground Spices: (one container of each available)

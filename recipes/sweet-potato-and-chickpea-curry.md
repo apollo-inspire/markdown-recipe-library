@@ -7,7 +7,7 @@ Original Recipe: https://www.kitchensanctuary.com/chickpea-and-sweet-potato-curr
 
 *Last updated: 2025-04-21*
 
-Cuisine: Indian  
+Cuisine: Indian, British-Indian    
 Type: Vegetarian  
 
 Rating: 5/5  
