@@ -1,4 +1,6 @@
 # Ideas to Try
+- Chili (American-Mexican)
+
 - https://simple-veganista.com/lazy-pasta/
 
 - Sheet Pan Potato (potato, minced meat, feta)
