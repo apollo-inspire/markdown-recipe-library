@@ -4,6 +4,10 @@
 *Rice, Carrot, Mushroom, Cucumber, Fried Egg, Tofu*
 <!-- *{Insert general description}* -->
 
+**WIP**
+
+*Last updated: 2025-04-23*
+
 Recipe Origin: https://www.loveandlemons.com/bibimbap-recipe/ 
 
 Cuisine: Korean   
@@ -76,7 +80,7 @@ See [Tofu](/recipes/baked-tofu.md) or [Tempeh](/recipes/baked-tempeh.md)
 9. Remove from the skillet and gently squeeze out any excess water from the spinach.
 
 #### Fried Egg:  
-10. Fry an egg in ?sesame oil. for about 1-2 mins
+10. Fry an egg in ?sesame oil for about 1-2 mins
 11. Then flip the egg and cook the other side for about 15-30 secs
 12. Take the egg out. 
 

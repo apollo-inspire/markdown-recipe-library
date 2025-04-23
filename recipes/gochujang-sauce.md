@@ -4,6 +4,11 @@
 *{Insert main ingredients}*
 *{Insert general description}*
 
+
+**WIP**
+
+*Last updated: 2025-04-23*
+
 Recipe Origin: [{insert link or person of original recipe}](https://www.loveandlemons.com/gochujang-sauce/)
 
 Cuisine: {insert cuisine or kitchen}  

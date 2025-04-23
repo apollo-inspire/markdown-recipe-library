@@ -4,9 +4,11 @@
 *Gnocchi, Broccoli, Cherry Tomatoes, Feta*  
 <!-- *{Insert general description}* -->
 
-Recipe Origin: https://www.loveandlemons.com/sheet-pan-gnocchi/
+**WIP**
 
 *Last updated: 2025-04-15*
+
+Recipe Origin: https://www.loveandlemons.com/sheet-pan-gnocchi/
 
 Cuisine: Italian  
 Type: Vegetarian
@@ -16,7 +18,8 @@ Cooking time: 0:45-1:15
 Price: € (in NL: €15-20)
 Servings: 6  
 
-Allergens: Milk/Lactose, Egg, Gluten {insert: Crustaceans/Shellfish, Fish, Peanuts, Tree nuts, Soy, Sesame, Mustard, Celery, Lupin, Sulphites, Molluscs, Citric acid}
+Allergens: Milk/Lactose, Egg, Gluten 
+<!-- {insert: Crustaceans/Shellfish, Fish, Peanuts, Tree nuts, Soy, Sesame, Mustard, Celery, Lupin, Sulphites, Molluscs, Citric acid} -->
 
 ## Ingredients
 ### Ground Spices: (one container of each available)
