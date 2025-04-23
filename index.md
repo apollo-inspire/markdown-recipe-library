@@ -5,10 +5,10 @@
 
 - [Sweet Potato and Chickpea Curry](/recipes/sweet-potato-and-chickpea-curry.md) (Indian)
 - [Paneer Curry](/recipes/paneer-curry.md) (Indian)
-- [Sheet Pan Gnocchi](/recipes/sheet-pan-gnocchi.md) (Italian)
-- [Simple Vegetable Spaghetti](/recipes/simple-vegetable-spaghetti.md) (Italian)
 - [Bibimbap](/recipes/bibimbap.md) (Korean)
 - [Gochujang Sauce](/recipes/gochujang-sauce.md) (Korean)
+- [Sheet Pan Gnocchi](/recipes/sheet-pan-gnocchi.md) (Italian)
+- [Simple Vegetable Spaghetti](/recipes/simple-vegetable-spaghetti.md) (Italian)
 
 ## To Add
 
