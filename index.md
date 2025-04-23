@@ -7,13 +7,16 @@
 - [Paneer Curry](/recipes/paneer-curry.md) (Indian)
 - [Sheet Pan Gnocchi](/recipes/sheet-pan-gnocchi.md) (Italian)
 - [Simple Vegetable Spaghetti](/recipes/simple-vegetable-spaghetti.md) (Italian)
+- [Bibimbap](/recipes/bibimbap.md) (Korean)
+- [Gochujang Sauce](/recipes/gochujang-sauce.md) (Korean)
 
 ## To Add
-- Bibimbap (Korean) {https://www.loveandlemons.com/bibimbap-recipe/}
-- Gochujang Sauce (Korean) {https://www.loveandlemons.com/gochujang-sauce/}
+
+
 - Baked Tofu (Korean) {https://www.loveandlemons.com/how-to-cook-tofu/}
 - Baked Tempeh (Korean) {https://www.loveandlemons.com/tempeh/}
 - Sushi Bowl (Japanese)
+- Sriracha Mayo (?Thai-Chinese-Japanese)
 - Vega Schnitzel & Ovenplate (German Inspired)
 - Luuks Pasta w Vega Balls (Italian Inspired)
 
