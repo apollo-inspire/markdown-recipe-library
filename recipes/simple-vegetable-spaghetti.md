@@ -1,7 +1,7 @@
 [Back to Index](/index.md)
 
 # Simple Vegetable Spaghetti 
-*Spaghetti, Tomato, Vegetables*. 
+*Spaghetti, Tomato, Vegetables*.  
 *A quick, easy and cheap fresh vegetable & tomato pasta*
 
 *Last updated: 2025-04-22*
