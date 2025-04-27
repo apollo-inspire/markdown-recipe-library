@@ -9,6 +9,7 @@
 - [Gochujang Sauce](/recipes/gochujang-sauce.md) (Korean)
 - [Sheet Pan Gnocchi](/recipes/sheet-pan-gnocchi.md) (Italian)
 - [Simple Vegetable Spaghetti](/recipes/simple-vegetable-spaghetti.md) (Italian)
+- [Simple Tomato & Feta Salad](/recipes/simple-tomato-feta-salad.md) (Greek)
 
 ## To Add
 
@@ -37,7 +38,7 @@
 - Full Indonesian Meal (Indonesian, Dutch-Indonesian)
 - Tofu Sate (Indonesian, Dutch-Indonesian) 
 - Ananas Rice Bowl (Asian)
-- Simple Tomato/Feta Salad (Greek)
+
 - Scrambled eggs broodje met ham
 - Hartige Pannenkoeken (Dutch)
 - Fancy Knakworst broodje (Dutch)
@@ -55,4 +56,4 @@
 - Zalm gebakken + aardappeltjes + groente
 - Pecan Pie (American)
 - ?Beet Pie (?Russian)
-
+- Turkse Pizza (Turkish, Turkish-Dutch)

@@ -3,8 +3,9 @@
 
 - https://simple-veganista.com/lazy-pasta/
 
-- Sheet Pan Potato (potato, minced meat, feta)
+- Sheet Pan Potato Feta (potato rounds, feta, minced meat, ?Mozerella ,? + garlic, olive oil, ?oregano, ?thyme, ?lemon juice/zest, ?black pepper, ?salt) (?https://www.anniepannie.nl/feta-oven-bougiourdi/, https://www.allrecipes.com/recipe/200771/herbed-greek-roasted-potatoes-with-feta-cheese/, https://www.foodbymaria.com/sheet-pan-greek-meatballs/, https://www.cookedandloved.com/recipes/greek-roasted-potatoes/, https://www.tiktok.com/@bytheforkful/video/7380018723798650145, https://nl.pinterest.com/pin/449304500342895316/, https://www.tiktok.com/@roubasfoodjourney/video/7353143438935739664)
 
+- Lasagne
 - Carrot, Red Pepper & Chickpeas Red Curry + Rice & Naan (Indian inspired)
 - Vegetarian Tikka Masala (Indian inspired)
 {https://www.chelseasmessyapron.com/vegetarian-tikka-masala/}
@@ -56,3 +57,28 @@ https://recepten.lidl.nl/recept/paprikaschotel-uit-de-oven
 https://recepten.lidl.nl/recept/aardappel-groentegratin
 https://recepten.lidl.nl/recept/pasta-met-geroosterde-roma-tomaten-uit-de-oven
 Pineapple fried rice 
+
+https://www.arla.nl/recepten/turkse-pizza/
+https://www.arla.nl/recepten/falafel/
+https://www.arla.nl/recepten/pasta-alla-norma/
+
+https://www.arla.nl/recepten/pico-de-gallo/
+
+https://www.arla.nl/recepten/pizza-margherita/
+
+https://www.arla.nl/recepten/croque-monsieur/
+
+https://www.arla.nl/recepten/pastasalade/
+
+https://www.arla.nl/recepten/burrito/
+
+https://www.arla.nl/recepten/pasta-alfredo/
+
+https://www.arla.nl/recepten/roerei-met-cottagecheese/
+
+https://www.arla.nl/recepten/biksemad/
+https://www.arla.nl/recepten/omelet-met-kruiden/
+
+Bagels als een soort hamburger, maar dan fresher
+
+https://www.arla.nl/recepten/kaasbagels/
