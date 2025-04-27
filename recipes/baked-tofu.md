@@ -1,8 +1,8 @@
 [Back to Index](/index.md)
 
-# {Insert Title}
-*{Insert main ingredients}*
-*{Insert general description}*
+# Baked Tofu
+*Tofu*
+*Crispy Baked Tofu*
 
 **WIP**
 
@@ -13,8 +13,8 @@ Recipe Origin: https://www.loveandlemons.com/how-to-cook-tofu/
 Cuisine: Korean
 Type: Vegetarian, Side   
 
-Rating: 3/5  
-Cooking time: {0:00}-{0:00}  
+Rating: 4/5  
+Cooking time: 0:45-1:00
 Price: € (in NL: ~€5)   
 Servings: 4  
 

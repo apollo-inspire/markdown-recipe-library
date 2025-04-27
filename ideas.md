@@ -1,9 +1,10 @@
 # Ideas to Try
+
+- Sheet Pan Potato Feta (potato rounds, feta, minced meat, ?Mozerella ,? + garlic, olive oil, ?oregano, ?thyme, ?lemon juice/zest, ?black pepper, ?salt) (?https://www.anniepannie.nl/feta-oven-bougiourdi/, https://www.allrecipes.com/recipe/200771/herbed-greek-roasted-potatoes-with-feta-cheese/, https://www.foodbymaria.com/sheet-pan-greek-meatballs/, https://www.cookedandloved.com/recipes/greek-roasted-potatoes/, https://www.tiktok.com/@bytheforkful/video/7380018723798650145, https://nl.pinterest.com/pin/449304500342895316/, https://www.tiktok.com/@roubasfoodjourney/video/7353143438935739664)
+
 - Chili (American-Mexican)
 
 - https://simple-veganista.com/lazy-pasta/
-
-- Sheet Pan Potato Feta (potato rounds, feta, minced meat, ?Mozerella ,? + garlic, olive oil, ?oregano, ?thyme, ?lemon juice/zest, ?black pepper, ?salt) (?https://www.anniepannie.nl/feta-oven-bougiourdi/, https://www.allrecipes.com/recipe/200771/herbed-greek-roasted-potatoes-with-feta-cheese/, https://www.foodbymaria.com/sheet-pan-greek-meatballs/, https://www.cookedandloved.com/recipes/greek-roasted-potatoes/, https://www.tiktok.com/@bytheforkful/video/7380018723798650145, https://nl.pinterest.com/pin/449304500342895316/, https://www.tiktok.com/@roubasfoodjourney/video/7353143438935739664)
 
 - Lasagne
 - Carrot, Red Pepper & Chickpeas Red Curry + Rice & Naan (Indian inspired)
