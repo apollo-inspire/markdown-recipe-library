@@ -8,13 +8,13 @@
 - [Bibimbap](/recipes/bibimbap.md) (Korean)
 - [Gochujang Sauce](/recipes/gochujang-sauce.md) (Korean)
 - [Baked Tofu](/recipes/baked-tofu.md) (Korean)
-- [Baked Tempeh](/recipes/baked-tempeh.md) (Korean)
 - [Sheet Pan Gnocchi](/recipes/sheet-pan-gnocchi.md) (Italian)
 - [Simple Vegetable Spaghetti](/recipes/simple-vegetable-spaghetti.md) (Italian)
 - [Simple Tomato & Feta Salad](/recipes/simple-tomato-feta-salad.md) (Greek)
 
 ## To Add
 
+- [Baked Tempeh](/recipes/baked-tempeh.md) (Korean)
 - Sushi Bowl (Japanese)
 - Sriracha Mayo (?Thai-Chinese-Japanese)
 - Vega Schnitzel & Ovenplate (German Inspired)

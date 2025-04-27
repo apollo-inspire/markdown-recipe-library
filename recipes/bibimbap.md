@@ -6,7 +6,7 @@
 
 **WIP**
 
-*Last updated: 2025-04-23*
+*Last updated: 2025-04-27*
 
 Recipe Origin: https://www.loveandlemons.com/bibimbap-recipe/ 
 
@@ -18,9 +18,10 @@ Cooking time: {1:00}-{1:30}
 Price: €€ (in NL: €25-30)  
 Servings: 4  
 
-Allergens: Egg, Soy, Sesame, Gluten  (Possible: Sulphites, Mustard)
+Allergens: Egg, Soy, Sesame, Gluten (Possible: Sulphites, Mustard)
 
 ## Ingredients
+
 ### Spices/Pastes/Flavourings: (one container of each available)
 - Salt
 - Soy Sauce / Tamari
@@ -28,17 +29,21 @@ Allergens: Egg, Soy, Sesame, Gluten  (Possible: Sulphites, Mustard)
 - (Toasted) Sesame Oil
 - Pure Maple Syrup
 - Gochujang Paste
+- Olive Oil
+- Sriracha
+- Cornstarch
+- Baking Paper
 
 ### Main:
 - Eggs [4]
-- Tofu / Tempeh [350-400g]
+- (Extra firm) Tofu (/ Tempeh) [350-400g]
 - Rice [?400g]
 
-- Cucumber [1]
-- Carrot [150g]
-- Mushroom  [150g]
+- Cucumber [1 whole big]
+- Carrots [150g]
+- Mushrooms [150g]  
 - Baby Spinach [150g]
-- Bean Sprouts / Taugé  [125g]
+- Bean Sprouts / Taugé [125g]
 
 ### Optional:
 - Green Onion
@@ -54,11 +59,11 @@ Allergens: Egg, Soy, Sesame, Gluten  (Possible: Sulphites, Mustard)
 
 4. Prepare the Rice, put it in the ricecooker and turn it on.
 
+### C: Baking Tofu or Tempeh
+See [Tofu](/recipes/baked-tofu.md) (or [Tempeh](/recipes/baked-tempeh.md))
+
 ### B: Making Gochujang Sauce
 See [Gochujang Sauce](/recipes/gochujang-sauce.md)
-
-### C: Baking Tofu or Tempeh
-See [Tofu](/recipes/baked-tofu.md) or [Tempeh](/recipes/baked-tempeh.md)
 
 ### D: (Main Cooking)
 #### Carrot:  
@@ -69,8 +74,11 @@ See [Tofu](/recipes/baked-tofu.md) or [Tempeh](/recipes/baked-tempeh.md)
 5. Then remove the carrot from the pan and set aside.  
 
 #### Mushroom:
-- To Insert  
-? https://www.loveandlemons.com/sauteed-mushrooms/
+1. Clean mushrooms with wet paper/towel.
+2. Slice mushrooms into half slices.
+3. ?
+- To Insert    
+? https://www.loveandlemons.com/sauteed-mushrooms/ ? is this the right one?
 
 #### Spinach:  
 6. Heat another 1/2 teaspoon of sesame oil in a medium skillet over medium heat.

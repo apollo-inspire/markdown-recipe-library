@@ -1,26 +1,40 @@
 [Back to Index](/index.md)
 
+# {Insert Title}
+*{Insert main ingredients}*
+*{Insert general description}*
+
 **WIP**
 
-*Last updated: 2025-04-23*
+*Last updated: 2025-04-27*
 
+Recipe Origin: https://www.loveandlemons.com/how-to-cook-tofu/    
 
----------
-//
+Cuisine: Korean
+Type: Vegetarian, Side   
 
-https://www.loveandlemons.com/how-to-cook-tofu/
+Rating: 3/5  
+Cooking time: {0:00}-{0:00}  
+Price: € (in NL: ~€5)   
+Servings: 4  
 
+Allergens: Soy {insert: Gluten, Crustaceans/Shellfish, Milk/Lactose, Egg, Fish, Peanuts, Tree nuts, Sesame, Mustard, Celery, Lupin, Sulphites, Molluscs, Citric acid}
 
-Ingredients
+## Ingredients
+- (Extra firm) Tofu [350-400g]
+- Olive Oil
+- Tamari / Soy Sauce
+- Sriracha
+- Cornstarch
+- Baking Paper
 
-14 ounces extra-firm tofu, patted dry and cubed
-½ tablespoon extra-virgin olive oil
-2 tablespoons tamari
-½ teaspoon sriracha
-1 tablespoon cornstarch, optional
+## Steps
 
-Instructions
-
-    Preheat the oven to 425°F and line a baking sheet with parchment paper.
-    Toss the cubed tofu with the olive oil, tamari, and sriracha. For extra crispy tofu, sprinkle with the cornstarch and gently toss to coat.
-    Spread the tofu evenly onto the baking sheet. Bake 20 to 25 minutes or until browned around the edges. Remove and serve warm.
+1. Preheat the oven to 200°C and 
+2. Line a baking sheet with baking paper.
+3. Cube the tofu into 2cm blocks.
+4. Toss tofu cubes into a bowl.
+5. Add into the bowl: 0.5 table spoon olive oil, 2 table spoons tamari/soy sauce, 0.5 teaspoon sriracha and 1 tablespoon cornstarch.
+6. Mix the bowl.
+7. Spread the tofu evenly onto the baking sheet. 
+8. When oven is pre-heated, put into oven and bake 20 to 25 minutes or until browned around the edges. 

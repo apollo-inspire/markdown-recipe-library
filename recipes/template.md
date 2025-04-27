@@ -4,6 +4,10 @@
 *{Insert main ingredients}*
 *{Insert general description}*
 
+**WIP**
+
+*Last updated: {2025-MM-DD}*
+
 Recipe Origin: {insert link or person of original recipe}
 
 Cuisine: {insert cuisine or kitchen}  

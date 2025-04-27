@@ -1,25 +1,22 @@
 [Back to Index](/index.md)
 
 # Gochujang Sauce
-*{Insert main ingredients}*
-*{Insert general description}*
+*Gochujang Paste, Rice Vinegar, Sesame Oil, Maple Syrup*   
+*Yummy spicy fresh korean sauce, amazing for anything rice bow or stir fried*  
 
+*Last updated: 2025-04-27*  
 
-**WIP**
+Recipe Origin: https://www.loveandlemons.com/gochujang-sauce/  
 
-*Last updated: 2025-04-27*
-
-Recipe Origin: https://www.loveandlemons.com/gochujang-sauce/
-
-Cuisine: Korean
-Type: Sauce, Vegetarian
+Cuisine: Korean   
+Type: Sauce, Vegetarian  
 
 Rating: 5/5  
-Cooking time: {0:00}-{0:00}  
-Price: {#}/3  
-Servings: {#}  
+Cooking time: 0:05-0:10  
+Price: € (in NL: ~€5)    
+Servings: 4   
 
-Allergens: {insert: Gluten, Crustaceans/Shellfish, Milk/Lactose, Egg, Fish, Peanuts, Tree nuts, Soy, Sesame, Mustard, Celery, Lupin, Sulphites, Molluscs, Citric acid}
+Allergens: Soy, Sesame (Possible: Gluten, Mustard, Sulphites)
 
 ## Ingredients
 - Gochujang Paste
