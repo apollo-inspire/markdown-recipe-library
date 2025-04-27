@@ -91,7 +91,7 @@ Allergens: Milk/Lactose, Gluten (Possible: Sesame, Sulphites, Citric acid)
 3. Add spice mix and cook for ~2 mins
 4. Add the Tomato Passata, 180ml stock, 1 tbsp Tomato Puree/Paste, 2 teasp sugar. 
 5. Simmer over medium heat for ~10 minutes until thickened while stirring occasionally.
-6. In the meanwhile preheat the oven (usually 180°C)
+6. In the meanwhile preheat the oven (usually 180°C, see the package)
 7. After the oven is preheated, add the naan (cooking time on the package)
 8. Stir the 175 ml heavy cream into the curry.
 9. Add cubes of paneer and cook, stirring gently, for 3 minutes.

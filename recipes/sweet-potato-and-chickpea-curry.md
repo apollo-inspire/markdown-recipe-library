@@ -87,7 +87,7 @@ Allergens: Gluten (Possible: Sesame, Sulphites, Citric acid)
 3. Add spice mix and cook for ~1 min
 4. Add the chopped sweet potato, drained chickpeas, tomato sauce, full fat coconut & 2 tbsp tomato puree.
 5. Simmer over medium heat for ~20 mins while stirring occasionally
-6. In the meanwhile preheat the oven (usually 180°C)
+6. In the meanwhile preheat the oven (usually 180°C, see the package)
 7. Test the sweet potato, if it's still hard, let it simmer for another ~10 mins
 8. After the oven is preheated, add the naan (cooking time on the package)
 9. Serve!
