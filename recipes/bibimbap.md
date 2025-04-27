@@ -2,7 +2,7 @@
 
 # Bibimbap
 *Rice, Carrot, Mushroom, Cucumber, Fried Egg, Tofu*   
-*Plentiful vegetarian rice bowl full with different tastes*
+*Plentiful vegetarian rice bowl full with different tastes and colors*
 
 **WIP**
 
