@@ -18,8 +18,7 @@ Cooking time: {1:00}-{1:30}
 Price: €€ (in NL: €25-30)  
 Servings: 4  
 
-Allergens: Egg, Soy, Sesame, Gluten 
-<!-- {insert: Crustaceans/Shellfish, Milk/Lactose, Peanuts, Tree nuts, Mustard, Celery, Lupin, Sulphites, Citric acid} -->
+Allergens: Egg, Soy, Sesame, Gluten  (Possible: Sulphites, Mustard)
 
 ## Ingredients
 ### Spices/Pastes/Flavourings: (one container of each available)
@@ -86,10 +85,9 @@ See [Tofu](/recipes/baked-tofu.md) or [Tempeh](/recipes/baked-tempeh.md)
 
 
 ### E: Serving
-```md
 1. Assemble the bowls with the rice, cucumber slices, bean sprouts, carrots, mushrooms, spinach and egg. 
 2. Also drizzle gochujang sauce on top/inside to your liking.
-```
+
 
 ### F: (Optional extra)
 1. Kimchi as a side

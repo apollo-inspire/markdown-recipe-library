@@ -56,11 +56,7 @@ Allergens: Milk/Lactose, Gluten (Possible: Sesame, Sulphites, Citric acid)
 - Red Onion [1 small]
 
 
-
-
-
 ## Steps
-
 
 ### A: (Fresh Tomato Sauce)
 1. Oil a sauce pan
