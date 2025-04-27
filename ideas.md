@@ -90,3 +90,9 @@ https://www.loveandlemons.com/peanut-sauce/
 https://www.loveandlemons.com/greek-salad-dressing/
 
 https://www.loveandlemons.com/pizza-sauce/
+
+https://www.loveandlemons.com/vegan-burrito-bowl-recipe/
+
+https://www.amazon.com/Love-Lemons-Every-Day-Plant-Forward/dp/0735219842/ref=as_li_ss_tl?ie=UTF8&linkCode=sl1&tag=loveandlemobl-20&linkId=b2d38da2d9bffbb0662f2d16ce70e25a&language=en_US   
+
+https://www.loveandlemons.com/vegan-poke-bowl/

@@ -1,5 +1,5 @@
-[Back to Index](/index.md)
-[Back to Bibimbap](/recipes/bibimbap.md)
+[Back to Index](/index.md)   
+[Back to Bibimbap](/recipes/bibimbap.md#b-baking-tofu-or-tempeh)
 
 # Baked Tofu
 *Tofu*

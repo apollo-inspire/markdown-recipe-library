@@ -39,7 +39,7 @@ Allergens: Soy, Sesame, Gluten, Egg (Possible: Sulphites, Mustard)
 - (Extra firm) Tofu (/ Tempeh) [350-400g]
 - Rice [?400g]
 
-- Cucumber [1 whole big]
+- Cucumber [1 big]
 - Carrots [150g]
 - Mushrooms [150g]  
 - Baby Spinach [150g]
@@ -59,19 +59,19 @@ Allergens: Soy, Sesame, Gluten, Egg (Possible: Sulphites, Mustard)
 
 4. Prepare the Rice, put it in the ricecooker and turn it on.
 
-### C: Baking Tofu or Tempeh
+### B: Baking Tofu (or Tempeh)
 See [Tofu](/recipes/baked-tofu.md) (or [Tempeh](/recipes/baked-tempeh.md))
 
-### B: Making Gochujang Sauce
+### C: Making Gochujang Sauce
 See [Gochujang Sauce](/recipes/gochujang-sauce.md)
 
 ### D: (Main Cooking)
-#### Carrot:  
-1. Slice 150g carrot into strips.
+#### Carrots:  
+1. Slice 150g carrots into strips.
 2. Heat 1/2 teaspoon of sesame oil in a medium skillet over medium heat.
-3. Add the sliced carrot and a pinch of salt.
-4. Cook the carrot while stirring for ~2 mins 
-5. Then remove the carrot from the pan and set aside.  
+3. Add the sliced carrots and a pinch of salt.
+4. Cook the carrots while stirring for ~2 mins 
+5. Then remove the carrots from the pan and set aside.  
 
 #### Mushroom:
 1. Clean mushrooms with wet paper/towel.
