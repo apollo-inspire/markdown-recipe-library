@@ -1,4 +1,5 @@
 [Back to Index](/index.md)
+[Back to Bibimbap](/recipes/bibimbap.md)
 
 # Baked Tofu
 *Tofu*
@@ -18,7 +19,7 @@ Cooking time: 0:45-1:00
 Price: € (in NL: ~€5)   
 Servings: 4  
 
-Allergens: Soy {insert: Gluten, Crustaceans/Shellfish, Milk/Lactose, Egg, Fish, Peanuts, Tree nuts, Sesame, Mustard, Celery, Lupin, Sulphites, Molluscs, Citric acid}
+Allergens: Soy, Gluten (Possible: Sulphites)
 
 ## Ingredients
 - (Extra firm) Tofu [350-400g]
@@ -30,7 +31,7 @@ Allergens: Soy {insert: Gluten, Crustaceans/Shellfish, Milk/Lactose, Egg, Fish, 
 
 ## Steps
 
-1. Preheat the oven to 200°C and 
+1. Preheat the oven to 200°C. 
 2. Line a baking sheet with baking paper.
 3. Cube the tofu into 2cm blocks.
 4. Toss tofu cubes into a bowl.

@@ -1,4 +1,5 @@
 [Back to Index](/index.md)
+[Back to Bibimbap](/recipes/bibimbap.md)
 
 # Gochujang Sauce
 *Gochujang Paste, Rice Vinegar, Sesame Oil, Maple Syrup*   

@@ -1,8 +1,8 @@
 [Back to Index](/index.md)
 
 # Bibimbap
-*Rice, Carrot, Mushroom, Cucumber, Fried Egg, Tofu*
-<!-- *{Insert general description}* -->
+*Rice, Carrot, Mushroom, Cucumber, Fried Egg, Tofu*   
+*Plentiful vegetarian rice bowl full with different tastes*
 
 **WIP**
 
@@ -18,7 +18,7 @@ Cooking time: {1:00}-{1:30}
 Price: €€ (in NL: €25-30)  
 Servings: 4  
 
-Allergens: Egg, Soy, Sesame, Gluten (Possible: Sulphites, Mustard)
+Allergens: Soy, Sesame, Gluten, Egg (Possible: Sulphites, Mustard)
 
 ## Ingredients
 
