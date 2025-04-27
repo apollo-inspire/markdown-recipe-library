@@ -28,6 +28,8 @@
 - Mexican wraps (Mexican, Tex-Mex)
 - Taquitos (Mexican, Tex-Mex)
 - homemade guacamole (Mexican, Tex-Mex)
+- chili (Mexican)
+- Grilled cheese sandwich 
 - Aardappelpannenkoeken + gehaktballen + gebakken ei + boontjes. (German-Dutch)
 - Nasi Goreng (Indonesian, Dutch-Indonesian) 
 - Pittige Omelette Rolletjes (Indonesian, Dutch-Indonesian)
@@ -47,6 +49,8 @@
 - Milko's Greek Salad (Greek) {https://miljuschka.nl/griekse-salade/}
 - Patatje Vrijdag (Dutch)
 - Kant en Klare Poffertjes (Dutch)
+- Tosti (Dutch)
+- Gourmette (Dutch)
 - Pasta pesto (Italian inspired)
 - Zalm gebakken + aardappeltjes + groente
 - Pecan Pie (American)
