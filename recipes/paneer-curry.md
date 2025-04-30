@@ -48,9 +48,9 @@ Allergens: Milk/Lactose, Gluten (Possible: Sesame, Sulphites, Citric acid)
 
 - Double Heavy Cream (30-50% fat)
 - Paneer Cheese [500g]
-- Fresh Tomatoes [700g-1300g] OR Natural Passata [400ml-?800ml]
+- Fresh Tomatoes [800g-1300g] OR Natural Passata [400ml-?800ml]
 
-- Rice [?400g-600g]
+- Rice [400g-600g]
 - Naan Bread [4 big breads]
 
 ### Optional:
