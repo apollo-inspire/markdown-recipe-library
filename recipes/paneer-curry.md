@@ -15,8 +15,8 @@ Cuisine: Indian, British-Indian
 Type: Vegetarian
 
 Rating: 5/5  
-Cooking time: 0:45-1:15  
-Price: €€ (in NL: €20-30)  
+Cooking time: 1:00-1:30  
+Price: €€ (in NL: €25-30)  
 Servings: 6  
 
 Allergens: Milk/Lactose, Gluten (Possible: Sesame, Sulphites, Citric acid)
