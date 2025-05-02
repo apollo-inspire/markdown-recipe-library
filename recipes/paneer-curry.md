@@ -4,7 +4,7 @@
 *Paneer cheese, Butter Tomato Curry*  
 *A rich, buttery vegetarian curry with paneer cheese*
 
-![Paneer Curry Icon](/images/paneer-curry-icon.jpg)
+<!-- ![Paneer Curry Icon](/images/paneer-curry-icon.jpg) -->
 <img src="/images/paneer-curry-icon.jpg" alt="Paneer Curry Icon" height="300"/>
 
 *Last updated: 2025-04-30*
@@ -36,7 +36,7 @@ Allergens: Milk/Lactose, Gluten (Possible: Sesame, Sulphites, Citric acid)
 ### Fresh Spices:
 - Onion [1 large]
 - Garlic [3 cloves]
-- Ginger [1 thumb]
+- Ginger [1 big thumb]
 - Spicy Pepper (Type & Quantity based on wanted spicyness: 2-4 red peppers is recommended)
 
 

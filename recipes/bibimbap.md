@@ -7,7 +7,7 @@
 
 **WIP**
 
-*Last updated: 2025-04-27*
+*Last updated: 2025-05-02*
 
 Recipe Origin: https://www.loveandlemons.com/bibimbap-recipe/ 
 

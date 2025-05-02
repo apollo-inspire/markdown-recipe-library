@@ -20,6 +20,7 @@
 - Vega Schnitzel & Ovenplate (German Inspired)
 - Luuks Pasta w Vega Balls (Italian Inspired)
 
+- (Milko's) Greek Salad (Greek) {https://miljuschka.nl/griekse-salade/}
 - Homemade Tomato sauce
 - Spaghetti alla Puttanesca (Italian)
 - Mashed Potato w sour milk + Pierogi w Śmietana + Green Salad (Polish) {https://www.polishmeals.com/2010/09/mashed-potatoes-2/}
@@ -46,7 +47,7 @@
 - Broodje Gezond (Dutch)
 - Polish Sandwich (Polish)
 - Homemade hamburger 
-- Milko's Greek Salad (Greek) {https://miljuschka.nl/griekse-salade/}
+
 - Patatje Vrijdag (Dutch)
 - Kant en Klare Poffertjes (Dutch)
 - Tosti (Dutch)
