@@ -7,7 +7,7 @@
 ![Paneer Curry Icon](/images/paneer-curry-icon.jpg)
 <img src="/images/paneer-curry-icon.jpg" alt="Paneer Curry Icon" height="300"/>
 
-*Last updated: 2025-04-23*
+*Last updated: 2025-04-30*
 
 Original Recipe: https://www.kitchensanctuary.com/paneer-curry/
 
@@ -15,8 +15,8 @@ Cuisine: Indian, British-Indian
 Type: Vegetarian
 
 Rating: 5/5  
-Cooking time: 0:45-1:15  
-Price: €€ (in NL: €20-25)  
+Cooking time: 1:00-1:30  
+Price: €€ (in NL: €25-30)  
 Servings: 6  
 
 Allergens: Milk/Lactose, Gluten (Possible: Sesame, Sulphites, Citric acid)
@@ -35,9 +35,9 @@ Allergens: Milk/Lactose, Gluten (Possible: Sesame, Sulphites, Citric acid)
 
 ### Fresh Spices:
 - Onion [1 large]
-- Garlic [4 cloves]
+- Garlic [3 cloves]
 - Ginger [1 thumb]
-- Spicy Pepper (Type & Quantity based on wanted spicyness)
+- Spicy Pepper (Type & Quantity based on wanted spicyness: 2-4 red peppers is recommended)
 
 
 ### Main:
@@ -45,11 +45,12 @@ Allergens: Milk/Lactose, Gluten (Possible: Sesame, Sulphites, Citric acid)
 - Unsalted Butter [50g]
 - (Vegetable) Stock [180 ml]
 - Tomato Puree/Paste [100g]
+
 - Double Heavy Cream (30-50% fat)
 - Paneer Cheese [500g]
-- Fresh Tomatoes [400g-800g] OR Natural Passata [400ml]
+- Fresh Tomatoes [800g-1500g] OR Natural Passata [400ml-?800ml]
 
-- Rice [?400g-600g]
+- Rice [400g-600g]
 - Naan Bread [4 big breads]
 
 ### Optional:
@@ -67,7 +68,7 @@ Allergens: Milk/Lactose, Gluten (Possible: Sesame, Sulphites, Citric acid)
 
 
 ### B: (Main Prepping)
-1. Roughly peel & chop 1 large onion, 4 cloves garlic and 1 thumb ginger (And red pepper)
+1. Roughly peel & chop 1 large onion, 3 cloves garlic and 1 thumb ginger (And red pepper)
 2. Blend the onion, garlic and ginger together. (And red pepper)
 4. Make the spice mix:
     - Add 1/4 teasp Salt
@@ -88,7 +89,7 @@ Allergens: Milk/Lactose, Gluten (Possible: Sesame, Sulphites, Citric acid)
 4. Add the Tomato Passata, 180ml stock, 1 tbsp Tomato Puree/Paste, 2 teasp sugar. 
 5. Simmer over medium heat for ~10 minutes until thickened while stirring occasionally.
 6. In the meanwhile preheat the oven (usually 180°C, see the package)
-7. After the oven is preheated, add the naan (cooking time on the package)
+7. After the oven is preheated, add the naan (usually 3-4mins, see the package)
 8. Stir the 175 ml heavy cream into the curry.
 9. Add cubes of paneer and cook, stirring gently, for 3 minutes.
 10. Serve!
