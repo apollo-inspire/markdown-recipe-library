@@ -2,7 +2,8 @@
 
 # Bibimbap
 *Rice, Carrot, Mushroom, Cucumber, Fried Egg, Tofu*   
-*Plentiful vegetarian rice bowl full with different tastes and colors*
+*A plentiful vegetarian rice bowl bursting with vibrant colors and flavors.*
+
 
 **WIP**
 
@@ -22,7 +23,7 @@ Allergens: Soy, Sesame, Gluten, Egg (Possible: Sulphites, Mustard)
 
 ## Ingredients
 
-### Spices/Pastes/Flavourings: (one container of each available)
+### Spices/Pastes/Flavourings/Oil: (one container of each available)
 - Salt
 - Soy Sauce / Tamari
 - Rice Vinegar
@@ -55,7 +56,7 @@ Allergens: Soy, Sesame, Gluten, Egg (Possible: Sulphites, Mustard)
 ### A: (Main Prepping)
 1. Slice 1 cucumber into thin slices.
 2. In a small bowl, toss the cucumber slices with 2 teaspoon rice vinegar, 1/2 teaspoon of the sesame oil, and 2 pinches of salt. 
-3. Mix, Set aside.
+3. Mix, set aside.
 
 4. Prepare the Rice, put it in the ricecooker and turn it on.
 
@@ -75,8 +76,9 @@ See [Gochujang Sauce](/recipes/gochujang-sauce.md)
 
 #### Mushroom:
 1. Clean mushrooms with wet paper/towel.
-2. Slice mushrooms into half slices.
-3. ?
+2. Slice into half-moons or bite-sized pieces.
+3. ? Heat 1 tsp olive oil or sesame oil in a skillet over medium heat.
+4. ? Add mushrooms and a pinch of salt. Sauté for 5–7 minutes, stirring occasionally, until golden brown and tender.
 - To Insert    
 ? https://www.loveandlemons.com/sauteed-mushrooms/ ? is this the right one?
 
@@ -88,8 +90,8 @@ See [Gochujang Sauce](/recipes/gochujang-sauce.md)
 
 #### Fried Egg:  
 10. Fry an egg in ?sesame oil for about 1-2 mins
-11. Then flip the egg and cook the other side for about 15-30 secs
-12. Take the egg out. 
+11. For a firmer yolk, flip the egg and cook the other side for about 15-30 secs
+12. Remove and set aside.
 
 
 ### E: Serving

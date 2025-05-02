@@ -31,6 +31,8 @@ Allergens: Soy, Gluten (Possible: Sulphites)
 
 ## Steps
 
+- For extra crisp tofu, press it for 20 minutes before baking.
+
 1. Preheat the oven to 200°C. 
 2. Line a baking sheet with baking paper.
 3. Cube the tofu into 2cm blocks.

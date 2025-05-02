@@ -3,7 +3,7 @@
 
 # Gochujang Sauce
 *Gochujang Paste, Rice Vinegar, Sesame Oil, Maple Syrup*   
-*Yummy spicy fresh korean sauce, amazing for anything rice bow or stir fried*  
+*Yummy spicy fresh korean sauce, amazing for anything rice bowl or stir fried*  
 
 *Last updated: 2025-04-27*  
 
