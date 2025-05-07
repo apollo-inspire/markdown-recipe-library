@@ -9,6 +9,8 @@ https://cookieandkate.com/vegetarian-chili-recipe/
 
 - Banh Mi Inspired tofu sandwich
 
+
+
 - Lasagne
 - Carrot, Red Pepper & Chickpeas Red Curry + Rice & Naan (Indian inspired)
 - Vegetarian Tikka Masala (Indian inspired)
@@ -102,3 +104,39 @@ https://www.loveandlemons.com/vegan-poke-bowl/
 
 
 Italian Sandwich (Italian Bread, Ham, Cherry tomato, cucumber, garliccy sauce, black pepper, ?lettuce)
+
+German potato salad
+
+Potato tomato lasagne / schaal (https://www.hellofresh.nl/recipes/italiaanse-preischotel-met-gehakt-603f83fb64d7d24cac5093fd)
+
+
+Ravioli in thicc tomato sauce
+
+fancy kapsalon w rice tomato sauce frite and donner
+
+https://www.youtube.com/watch?v=kxP8Fv93tw0
+https://boondockingrecipes.com/25-favorite-vegetarian-korean-recipes/
+https://www.tasteofhome.com/collection/asian-inspired-vegetarian-recipes/
+
+https://www.runonveg.com/recipes/healthy-tofu-chickpea-brown-rice-bowl/?utm_source=chatgpt.com
+https://cookieandkate.com/buddha-bowl-recipe/?utm_source=chatgpt.com
+https://www.recipetineats.com/vegetable-pasta/?utm_source=chatgpt.com
+https://annamariasfoods.com/cavatelli-and-torino-alla-norma/?utm_source=chatgpt.com
+https://www.lazycatkitchen.com/vegan-rice-bowl/?utm_source=chatgpt.com
+https://cookieandkate.com/vegetarian-sushi-bowl-recipe/
+
+https://www.craftycookbook.com/simple-sushi-rice/
+
+?Pierogi z borówkami/jagodami - Pierogi with forest blueberries and cream 
+Zapiekanki 
+placki ziemniaczane with soured cream
+Pyry z gzikiem - boiled potatoes with twaróg that has been mixed with cream/yogurth and diced onions. 
+Kopytka (?paluszki/kluski)
+gołąbki (stuffed cabbage)
+placki ziemniaczane 
+racuchy 
+ogórkowa
+pierogi z soczewicą
+Młoda kapusta z koperkiem
+Pierogi ruskie
+kapusta z grzybami

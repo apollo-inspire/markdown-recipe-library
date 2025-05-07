@@ -22,7 +22,7 @@ Quick/Simple:
 
 
 - [Baked Tempeh](/recipes/baked-tempeh.md) (Korean)
-- Sushi Bowl (Japanese)
+- Sushi Bowl (Japanese) (https://www.loveandlemons.com/sushi-bowl/)
 - Sriracha Mayo (?Thai-Chinese-Japanese)
 - Vega Schnitzel & Ovenplate (German Inspired)
 - Luuks Pasta w Vega Balls (Italian Inspired)
@@ -53,7 +53,7 @@ Quick/Simple:
 - Bauernomelett (op brood) (German)
 - Scrambled eggs w spring onion
 - Broodje Gezond (Dutch)
-- Polish Sandwich (Polish)
+- Polish Ogórek Sandwich (Polish)
 - Homemade hamburger 
 
 - Patatje Vrijdag (Dutch)
