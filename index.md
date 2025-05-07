@@ -19,7 +19,7 @@ Quick/Simple:
 
 ## To Add
 
-- Banh Mi Inspired tofu sandwich
+
 
 - [Baked Tempeh](/recipes/baked-tempeh.md) (Korean)
 - Sushi Bowl (Japanese)

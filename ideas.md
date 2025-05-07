@@ -7,6 +7,8 @@ https://cookieandkate.com/vegetarian-chili-recipe/
 
 - https://simple-veganista.com/lazy-pasta/
 
+- Banh Mi Inspired tofu sandwich
+
 - Lasagne
 - Carrot, Red Pepper & Chickpeas Red Curry + Rice & Naan (Indian inspired)
 - Vegetarian Tikka Masala (Indian inspired)
