@@ -4,7 +4,7 @@
 *Spaghetti, Tomato, Vegetables*.  
 *A quick, easy and cheap fresh vegetable & tomato pasta*
 
-*Last updated: 2025-04-22*
+*Last updated: 2025-05-07*
 
 **WIP**
 
@@ -21,43 +21,49 @@ Servings: 4
 Allergens: Gluten (Possible: Egg, Citric acid, Sulphites) {insert: Crustaceans/Shellfish, Milk/Lactose, Soy, Sesame, Mustard, Lupin}
 
 ## Ingredients
-- Spaghetti (or other pasta)
-- Olive Oil
-- Tomato (Canned Blocks or fresh cooked blocks)
-- Onion
-- Garlic
+### Ground Spices: (one container of each available)
 - Salt
 - Pepper
 - Oregano/Italian Seasoning
-- 2-4 Vegetables to your liking (example: broccoli, mushroom, courgette, carrot, spinach, bell pepper, aubergine, green beans, peas)
-- Optional: Parmesan
-
-### Ground Spices: (one container of each available)
-- {insert}
-
+- Olive Oil
 
 ### Fresh Spices:
-- {insert name} [{insert amount}]
+- Onion
+- Garlic
 
 ### Main:
-- {insert name} [{insert amount}]
+- Spaghetti (or other pasta)
+- Tomato (Canned Blocks or fresh cooked blocks)
+- 2-4 Vegetables to your liking (example: broccoli, mushroom, courgette, carrot, spinach, bell pepper, aubergine, green beans, peas)
 
 ### Optional:
-- {insert name} [{insert amount}]
+- Parmesan
 
 ## Steps
 
-- Cook the pasta
-- Make the tomato sauce
-- Sauté the veggies
-- Combine and serve
+Make the tomato sauce:
+- Chop the tomato in small cubes
+- Oil a tall sauce pan
+- Put the tomatoes in the pan
+- Add a pinch of salt and sugar
+- Let the tomatoes cook for about 10-15 minutes until they become soft, but dont turn into liquid
+- (?add some tomato paste) 
+- When done turn off the heat and put pan aside for now
 
-### A: (Main Prepping)
-1. {insert step}
+Cook the pasta:
+- Put water in a tall boiling pan
+- Turn on the heat until it starts boiling.
+- Add a pinch of salt to the boiling water
+- Then add the pasta for (?8-10 minutes)
+- Turn off the heat, drain out the water and put pan aside for now
 
+Sauté the veggies
+- Cut all vegetables into bitesized chunks
+- Add pepper, salt and italian herbs to veggies
+- Put oil in a pan and heat up
+- Saute the veggies (?5-10mins)
 
-### B: (Main Cooking)
-1. {insert step}
+Combine and serve:
+- When everything is done, add the pasta and tomato sauce into the pan with the veggies and let it cook through.
+- Then serve!
 
-### C: (Optional extra)
-1. {insert step}
