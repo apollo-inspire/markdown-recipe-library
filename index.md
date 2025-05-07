@@ -3,11 +3,16 @@
 
 ## Recipes
 
+Main Meals:
 - [Sweet Potato and Chickpea Curry](/recipes/sweet-potato-and-chickpea-curry.md) (Indian)
 - [Paneer Curry](/recipes/paneer-curry.md) (Indian)
 - [Bibimbap](/recipes/bibimbap.md) (Korean)
+
+Side/parts:
 - [Gochujang Sauce](/recipes/gochujang-sauce.md) (Korean)
 - [Baked Tofu](/recipes/baked-tofu.md) (Korean)
+  
+Quick/Simple:
 - [Sheet Pan Gnocchi](/recipes/sheet-pan-gnocchi.md) (Italian)
 - [Simple Vegetable Spaghetti](/recipes/simple-vegetable-spaghetti.md) (Italian)
 - [Simple Tomato & Feta Salad](/recipes/simple-tomato-feta-salad.md) (Greek)
@@ -20,6 +25,7 @@
 - Vega Schnitzel & Ovenplate (German Inspired)
 - Luuks Pasta w Vega Balls (Italian Inspired)
 
+- Hoisin Tofu Baguette (https://www.wearesovegan.com/hoisin-tofu-baguettes/)
 - (Milko's) Greek Salad (Greek) {https://miljuschka.nl/griekse-salade/}
 - Homemade Tomato sauce
 - Spaghetti alla Puttanesca (Italian)
