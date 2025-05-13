@@ -15,15 +15,18 @@ Cuisine: Korean
 Type: Vegetarian   
 
 Rating: 5/5  
-Cooking time: {1:00}-{1:30}  
+Cooking time: 1:00-1:30  
 Price: €€ (in NL: €25-30)  
 Servings: 4  
 
 Allergens: Soy, Sesame, Gluten, Egg (Possible: Sulphites, Mustard)
 
+-------------------------------------------------------------
+<div style="page-break-after: always; visibility: hidden"> \pagebreak </div>
+
 ## Ingredients
 
-### Spices/Pastes/Flavourings/Oil: (one container of each available)
+### Spices/Pastes/Flavourings/Oils: (one container of each available)
 - Salt
 - Soy Sauce / Tamari
 - Rice Vinegar
@@ -50,6 +53,9 @@ Allergens: Soy, Sesame, Gluten, Egg (Possible: Sulphites, Mustard)
 - Green Onion
 - Kimchi
 - Sesame seeds
+
+-------------------------------------------------------------
+<div style="page-break-after: always; visibility: hidden"> \pagebreak </div>
 
 ## Steps
 

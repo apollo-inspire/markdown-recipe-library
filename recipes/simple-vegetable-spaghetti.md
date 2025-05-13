@@ -58,7 +58,7 @@ Cook the pasta:
 - Turn off the heat, drain out the water and put pan aside for now
 
 Sauté the veggies
-- Cut all vegetables into bitesized chunks
+- Cut all vegetables into bite sized chunks
 - Add pepper, salt and italian herbs to veggies
 - Put oil in a pan and heat up
 - Saute the veggies (?5-10mins)

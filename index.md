@@ -7,6 +7,7 @@ Main Meals:
 - [Sweet Potato and Chickpea Curry](/recipes/sweet-potato-and-chickpea-curry.md) (Indian)
 - [Paneer Curry](/recipes/paneer-curry.md) (Indian)
 - [Bibimbap](/recipes/bibimbap.md) (Korean)
+- [Sushi Bowl](/recipes/sushibowl.md) (Japanese)
 
 Side/parts:
 - [Gochujang Sauce](/recipes/gochujang-sauce.md) (Korean)
@@ -18,11 +19,7 @@ Quick/Simple:
 - [Simple Tomato & Feta Salad](/recipes/simple-tomato-feta-salad.md) (Greek)
 
 ## To Add
-
-
-
 - [Baked Tempeh](/recipes/baked-tempeh.md) (Korean)
-- Sushi Bowl (Japanese) (https://www.loveandlemons.com/sushi-bowl/)
 - Sriracha Mayo (?Thai-Chinese-Japanese)
 - Vega Schnitzel & Ovenplate (German Inspired)
 - Luuks Pasta w Vega Balls (Italian Inspired)
