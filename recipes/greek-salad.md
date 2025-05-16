@@ -16,7 +16,7 @@ Diet Type: Vegetarian
 
 Rating: 4/5  
 Cooking time: ?{0:15}-{0:30}  
-Price: €€ (in NL: €10-15)   
+Price: € (in NL: €10-15)   
 Servings: 4   
 
 Allergens: Milk (Potential: Sulphites)
