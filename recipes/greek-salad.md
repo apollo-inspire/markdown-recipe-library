@@ -62,7 +62,7 @@ Allergens: Milk (Potential: Sulphites)
 5. Dice the cucumber and add it to the bowl.
 6. Slice the red onion into thin half rings, add to the mix.
 7. Cut the tomatoes into chunks or wedges and add them.
-8. Add the whole Kalamata olives.
+8. Add the whole Kalamata olives. (Or cut in halve)
 
 ## C. Herbs & Final Touch
 9. Finely chop the fresh herbs (dill, coriander, parsley) and mix them in.
