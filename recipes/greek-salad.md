@@ -1,7 +1,7 @@
 [Back to Index](/index.md)
 
 # Greek Salad
-*Feta, Tomato, Cucumber, Kalamata Olives, Red Onion*
+*Feta, Tomato, Cucumber, Kalamata Olives, Red Onion*  
 *A fresh, simple classic packed with flavor, straight from the Greek sun.*
 
 **WIP**
@@ -10,8 +10,8 @@
 
 Recipe Origin: https://miljuschka.nl/griekse-salade/
 
-Cuisine: Greek Inspired
-Dish Type: Salad, Quick & Easy
+Cuisine: Greek Inspired  
+Dish Type: Salad, Quick & Easy  
 Diet Type: Vegetarian
 
 Rating: 4/5  
