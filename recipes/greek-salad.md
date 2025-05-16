@@ -15,7 +15,7 @@ Dish Type: Salad, Quick & Easy
 Diet Type: Vegetarian
 
 Rating: 4/5  
-Cooking time: {0:15}-{0:40}  
+Cooking time: ?{0:15}-{0:30}  
 Price: €€ (in NL: €10-15)   
 Servings: 4   
 
