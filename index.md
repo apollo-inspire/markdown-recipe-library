@@ -1,5 +1,5 @@
 # Index
-*Disclaimer: All information is based on my personal cooking experience*
+*Disclaimer: Most information is based on my personal cooking experience*
 
 ## Recipes
 
@@ -8,15 +8,16 @@ Main Meals:
 - [Paneer Curry](/recipes/paneer-curry.md) (Indian)
 - [Bibimbap](/recipes/bibimbap.md) (Korean)
 - [Sushi Bowl](/recipes/sushibowl.md) (Japanese)
-
-Side/parts:
-- [Gochujang Sauce](/recipes/gochujang-sauce.md) (Korean)
-- [Baked Tofu](/recipes/baked-tofu.md) (Korean)
   
 Quick/Simple:
 - [Sheet Pan Gnocchi](/recipes/sheet-pan-gnocchi.md) (Italian)
 - [Simple Vegetable Spaghetti](/recipes/simple-vegetable-spaghetti.md) (Italian)
 - [Simple Tomato & Feta Salad](/recipes/simple-tomato-feta-salad.md) (Greek)
+- [Greek Salad](/recipes/greek-salad.md) (Greek)
+
+Side/parts:
+- [Gochujang Sauce](/recipes/gochujang-sauce.md) (Korean)
+- [Korean Baked Tofu](/recipes/baked-tofu.md) (Korean)
 
 ## To Add
 - [Baked Tempeh](/recipes/baked-tempeh.md) (Korean)
@@ -25,7 +26,6 @@ Quick/Simple:
 - Luuks Pasta w Vega Balls (Italian Inspired)
 
 - Hoisin Tofu Baguette (https://www.wearesovegan.com/hoisin-tofu-baguettes/)
-- (Milko's) Greek Salad (Greek) {https://miljuschka.nl/griekse-salade/}
 - Homemade Tomato sauce
 - Spaghetti alla Puttanesca (Italian)
 - Mashed Potato w sour milk + Pierogi w Śmietana + Green Salad (Polish) {https://www.polishmeals.com/2010/09/mashed-potatoes-2/}
@@ -53,6 +53,7 @@ Quick/Simple:
 - Polish Ogórek Sandwich (Polish)
 - Homemade hamburger 
 
+- Summer Barbecue (Dutch)
 - Patatje Vrijdag (Dutch)
 - Kant en Klare Poffertjes (Dutch)
 - Tosti (Dutch)

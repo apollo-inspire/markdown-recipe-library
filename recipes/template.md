@@ -11,7 +11,8 @@
 Recipe Origin: {insert link or person of original recipe}
 
 Cuisine: {insert cuisine or kitchen}  
-Type: {insert diet type}  
+Diet Type: {insert diet type} 
+Dish Type: {insert} 
 
 Rating: {#}/5  
 Cooking time: {0:00}-{0:00}  
@@ -19,6 +20,9 @@ Price: {#}/3
 Servings: {#}  
 
 Allergens: {insert: Gluten, Crustaceans/Shellfish, Milk/Lactose, Egg, Fish, Peanuts, Tree nuts, Soy, Sesame, Mustard, Celery, Lupin, Sulphites, Molluscs, Citric acid}
+
+-------------------------------------------------------------
+<div style="page-break-after: always; visibility: hidden"> \pagebreak </div>
 
 ## Ingredients
 ### Ground Spices: (one container of each available)
@@ -33,6 +37,10 @@ Allergens: {insert: Gluten, Crustaceans/Shellfish, Milk/Lactose, Egg, Fish, Pean
 
 ### Optional:
 - {insert name} [{insert amount}]
+
+
+-------------------------------------------------------------
+<div style="page-break-after: always; visibility: hidden"> \pagebreak </div>
 
 ## Steps
 

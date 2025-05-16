@@ -31,7 +31,7 @@ Allergens: Soy, Sesame, Gluten, Egg (Possible: Sulphites, Mustard)
 - Soy Sauce / Tamari
 - Rice Vinegar
 - (Toasted) Sesame Oil
-- Pure Maple Syrup
+- Pure Maple Syrup (/ Honey)
 - Gochujang Paste
 - Olive Oil
 - Sriracha
@@ -67,10 +67,28 @@ Allergens: Soy, Sesame, Gluten, Egg (Possible: Sulphites, Mustard)
 4. Prepare the Rice, put it in the ricecooker and turn it on.
 
 ### B: Baking Tofu (or Tempeh)
-See [Tofu](/recipes/baked-tofu.md) (or [Tempeh](/recipes/baked-tempeh.md))
+<!-- See [Tofu](/recipes/baked-tofu.md) (or [Tempeh](/recipes/baked-tempeh.md)) -->
+
+- For extra crisp tofu, press it for 20 minutes before baking.
+
+1. Preheat the oven to 200°C. 
+2. Line a baking sheet with baking paper.
+3. Cube the tofu into 2cm blocks.
+4. Toss tofu cubes into a bowl.
+5. Add into the bowl: 0.5 table spoon olive oil, 2 table spoons tamari/soy sauce, 0.5 teaspoon sriracha and 1 tablespoon cornstarch.
+6. Mix the bowl.
+7. Spread the tofu evenly onto the baking sheet. 
+8. When oven is pre-heated, put into oven and bake 20 to 25 minutes or until browned around the edges. 
 
 ### C: Making Gochujang Sauce
-See [Gochujang Sauce](/recipes/gochujang-sauce.md)
+<!-- See [Gochujang Sauce](/recipes/gochujang-sauce.md) -->
+
+1. In a small bowl: Add 2-3 tablespoons of Gochujang Paste  (based on wanted spicyness)
+2. Add 1.5 tablespoons of Rice Vinegar
+3. Add 1 tablespoon Sesame Oil
+4. Add 1 tablespoon Maple Syrup 
+5. Mix/whisk together
+6. Use as a dressing for rice bowls.
 
 ### D: (Main Cooking)
 #### Carrots:  
